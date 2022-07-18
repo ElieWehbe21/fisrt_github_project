@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={img} className="App-logo" alt="logo" />
         <p>
-          hello this project will be uploaded to github
+          hello this project will be uploaded to github sdf
         </p>
         <button>click me!!!</button>
         <p>
